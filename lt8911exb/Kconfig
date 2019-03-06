@@ -1,0 +1,8 @@
+#
+#  LT8911EXB driver configuration
+#
+config LT8911EXB_DRIVER 
+       tristate  "Lontium LT8911EXB driver"    
+       default n
+       help
+           Lontium LT8911EXB driver for MIPI to EDP

@@ -1,0 +1,1 @@
+obj-$(CONFIG_LT8911EXB_DRIVER) += lt8911exb.o
